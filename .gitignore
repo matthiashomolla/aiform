@@ -1,0 +1,6 @@
+aiform_env/
+*.pyc
+__pycache__/
+.DS_Store
+frames/
+videos/
